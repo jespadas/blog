@@ -24,7 +24,9 @@
     "@sanity/vision": "^2.0.9",
     "prop-types": "^15.7",
     "react": "^17.0",
-    "react-dom": "^17.0"
+    "react-dom": "^17.0",
+    "sanity-plugin-dark-mode": "^0.0.32",
+    "sanity-plugin-seo-tools": "^1.0.6"
   },
   "devDependencies": {}
 }
